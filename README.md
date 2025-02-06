@@ -1,2 +1,45 @@
-# task-manager
-A Python-based task manager running in Jupyter Notebook
+# Task Manager
+
+A Python-based task manager running in Jupyter Notebook.
+
+## Features
+- ✅ Add, update, and delete tasks
+- ✅ Mark tasks as completed
+- ✅ List and organize tasks
+- ✅ Save and load tasks to/from an Excel file
+- ✅ Search, sort, and check for duplicates
+- ✅ Highlight high-priority tasks
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/task-manager.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd task-manager
+   ```
+3. Install dependencies:
+   ```bash
+   pip install pandas openpyxl
+   ```
+4. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+5. Run the `task_manager.ipynb` notebook.
+
+## Usage
+- Open the Jupyter Notebook and run the cells step by step.
+- Follow the instructions in the notebook to manage your tasks.
+- Use various functions to add, edit, search, sort, and save tasks.
+
+## Technologies Used
+- **Python** 🐍
+- **Jupyter Notebook** 📓
+- **Pandas** (for data manipulation)
+- **OpenPyXL** (for Excel file handling)
+
+## License
+MIT License
