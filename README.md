@@ -16,19 +16,7 @@ A Python-based task manager running in Jupyter Notebook.
    ```bash
    git clone https://github.com/ewoldan/task-manager.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd task-manager
-   ```
-3. Install dependencies:
-   ```bash
-   pip install pandas openpyxl
-   ```
-4. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-5. Run the `task_manager.ipynb` notebook.
+2. Run the `task_manager.ipynb` notebook.
 
 ## Usage
 - Open the Jupyter Notebook and run the cells step by step.
