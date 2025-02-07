@@ -14,7 +14,7 @@ A Python-based task manager running in Jupyter Notebook.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/ewoldan/task-manager.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -35,11 +35,9 @@ A Python-based task manager running in Jupyter Notebook.
 - Follow the instructions in the notebook to manage your tasks.
 - Use various functions to add, edit, search, sort, and save tasks.
 
-## Technologies Used
+## Build with
 - **Python** 🐍
 - **Jupyter Notebook** 📓
 - **Pandas** (for data manipulation)
 - **OpenPyXL** (for Excel file handling)
 
-## License
-MIT License
